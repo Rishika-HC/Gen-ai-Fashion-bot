@@ -1,1 +1,1 @@
-# Gen-ai-Fashion-bot
+The Fashion Outfit Generator is a smart web application built using Flask (Python) that suggests stylish outfits for different occasions. It enhances the user experience by not only displaying outfit ideas but also generating text-to-speech audio for the suggestion.
